@@ -1,0 +1,2 @@
+This program is a program for clap switch. We are using  arduino for making clap switch.It is a simple program wich does not utelize any kind of library.This program is coded by Alestor Aldous/Alestor-Tech-Industries.
+It uses pin-11 as output and pin-12 as input.Our official site- https://alestortech.wixsite.com/alestor-tech .
